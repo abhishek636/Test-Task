@@ -1,7 +1,6 @@
 const lodash = require("lodash");
 
-const moment = require("moment");
-
+const moment = require("moment")
 
 //Print Date or Time in the following format:
 console.log("Current Date and Time: " + moment().format('MMMM Do YYYY, h:mm:ss a'));
